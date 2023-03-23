@@ -1,0 +1,11 @@
+Flask==2.2.3
+keras==2.11.0
+numpy==1.24.2
+openai==0.27.0
+python-dotenv==1.0.0
+pyttsx3==2.90
+SpeechRecognition==3.9.0
+tensorflow==2.11.0
+tensorflow_intel==2.11.0
+pillow==9.4.0
+langdetect==1.0.9
