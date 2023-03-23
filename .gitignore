@@ -1,7 +1,7 @@
 .env
+Cookiesier_Report.docx
 best_model_11class.hdf5
 weight_trained_11class.h5
 __pycache__/
 /food_images_for_testing/
 /images/
-.docx
